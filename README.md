@@ -75,14 +75,7 @@ Ensure "homepage" is set in package.json as:
 7.Locomotive Scroll
 8.Deploying React apps via GitHub Pages
 
-🌐 Live Preview
-🔗 Visit Deployed Website
 
-👨‍💻 Author
-[Nitin Yadav](https://github.com/indecisivenitin)
-
-🔗 GitHub
-🔗 [GitHub Repo](https://github.com/indecisivenitin/OCHI)
 
 📃 License
 This project is open-source and available under the MIT License.
@@ -91,5 +84,3 @@ This project is open-source and available under the MIT License.
 
 
 
-Result video-
-▶️ [Watch Demo](./video.mp4)
