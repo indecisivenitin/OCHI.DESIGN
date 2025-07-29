@@ -91,4 +91,4 @@ This project is open-source and available under the MIT License.
 
 Result video-
 ### Demo Animation
-![Demo](.video.mp4)
+![Demo](./video.mp4)
