@@ -79,8 +79,10 @@ Ensure "homepage" is set in package.json as:
 🔗 Visit Deployed Website
 
 👨‍💻 Author
-Nitin Yadav
+[Nitin Yadav](https://github.com/indecisivenitin)
+
 🔗 GitHub
+🔗 [GitHub Repo](https://github.com/indecisivenitin/OCHI)
 
 📃 License
 This project is open-source and available under the MIT License.
