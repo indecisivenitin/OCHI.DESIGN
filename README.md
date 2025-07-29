@@ -9,7 +9,8 @@
 
 This is a **front-end clone** of the amazing [ochi.design](https://ochi.design) website, rebuilt with React.js and modern animation tools.  
 The project was done for **learning purposes**—to master component-based UI building, JSX syntax, Tailwind styling, and animation techniques.
-
+[GitHub Profile](https://github.com/indecisivenitin) 
+[Project Repository](https://github.com/indecisivenitin/OCHI)
 ---
 
 ## 🚀 Tech Stack
