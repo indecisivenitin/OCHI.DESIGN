@@ -11,6 +11,7 @@ This is a **front-end clone** of the amazing [ochi.design](https://ochi.design) 
 The project was done for **learning purposes**—to master component-based UI building, JSX syntax, Tailwind styling, and animation techniques.
 [GitHub Profile](https://github.com/indecisivenitin) 
 [Project Repository](https://github.com/indecisivenitin/OCHI)
+[live preview](https://indecisivenitin.github.io/OCHI.DESIGN/)
 ---
 
 ## 🚀 Tech Stack
